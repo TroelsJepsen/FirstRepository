@@ -1,3 +1,4 @@
 /FirstGithubProject/nbproject/
 /FirstGithubProject/build/
-Gitignore_example.txt
+/FirstGithubProject/build.xml
+/FirstGithubProject/manifest.mf

@@ -15,8 +15,9 @@ public class HelloWorldMain {
      */
     public static void main(String[] args) {
         System.out.println("Hello World!");
-        System.out.println("Goodbye world");
+        System.out.println("Goodbye World!");
         System.out.println("Hi again");
+        System.out.println("Hi hi");
     }
     
 }

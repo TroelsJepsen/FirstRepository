@@ -1,0 +1,9 @@
+/MES/nbproject/private/
+/MES/nbproject
+/MES/build.xml
+/MES/manifest.mf
+.idea
+/.idea
+/RMITest/nbproject/private/
+/RMITest/build/
+/Aflevering2OPN/nbproject/private/

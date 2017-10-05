@@ -17,6 +17,7 @@ public class HelloWorldMain {
         System.out.println("Hello World!");
         System.out.println("Goodbye World!");
         System.out.println("Hi again");
+        System.out.println("Hi hi");
     }
     
 }
